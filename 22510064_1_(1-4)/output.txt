@@ -1,0 +1,12 @@
+apple
+banana
+cherry
+grape
+kiwi
+mango
+melon
+orange
+peach
+pear
+pineapple
+strawberry
